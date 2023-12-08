@@ -30,9 +30,11 @@ The main goals and purposes of this project include:
 
 ## Subprojects
 
-🚧 WORKING ON THE FIRST
+🚧 
+[Data Structures](https://github.com/LincolnBarsotti/JavaScript/tree/main/data%20structures)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200"> 
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200"> <img src="https://media.tenor.com/JWFEQcWcJyQAAAAM/happy-catto-cats.gif" width="200"> <img src="https://media.tenor.com/wX9RAfXA0r0AAAAM/cat.gif" width="180"> <img src="https://media.tenor.com/zh58XZRJuzYAAAAM/cat-hacking.gif" width="190"> <img src="https://media.tenor.com/PS6medrGxqwAAAAM/cat-kiss.gif" width="215"> 
+
 
 ## Contact Information
 
