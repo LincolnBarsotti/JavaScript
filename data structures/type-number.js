@@ -6,7 +6,7 @@ const segundoNumero = 2;
 
 const operacaoMatematica = meuNumero * segundoNumero;
 
-// Deve retornar o primeiro numero elevado ao segundo numero
+// Deve retornar o primeiro numero elevado ao segundo numero -> 9
 let operacaoMat = primeiroNumero**segundoNumero;
 
 // Deve retornar 2 e 9
