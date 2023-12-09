@@ -12,4 +12,7 @@ console.log(StringDeNumeros);
 console.log(citacao);
 console.log(citacao + ' e ' + texto1);
 console.log('\u0024');
+console.log(citacao.toLocaleUpperCase());
+console.log(citacao.toLocaleLowerCase());
+console.log(citacao.length());
 // Template string ou template literal
