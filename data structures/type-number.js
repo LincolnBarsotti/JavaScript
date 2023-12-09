@@ -4,10 +4,13 @@ const meuNumero = 3;
 const primeiroNumero = 1;
 const segundoNumero = 2;
 
-const operacaoMatematica = primeiroNumero * segundoNumero;
+const operacaoMatematica = meuNumero * segundoNumero;
 
-// Deve retornar 2
-console.log(operacaoMatematica);
+// Deve retornar o primeiro numero elevado ao segundo numero
+let operacaoMat = primeiroNumero**segundoNumero;
+
+// Deve retornar 2 e 9
+console.log(operacaoMatematica + ' e ' + operacaoMat );
 
 const numeroFlutuante = 3.3;
 const pontoFlutuanteSemZero = .5;
@@ -20,3 +23,5 @@ console.log(novaOperacao);
 const naoEhUmNumero = "Nao é um numero";
 // Deve retornar NaN
 console.log(naoEhUmNumero * numeroFlutuante);
+
+
