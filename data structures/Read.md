@@ -20,6 +20,10 @@ The subproject is organized into the following files:
 
 - **/type-string.js:** Contains the source code for Strings structures implemented.
 
+- **/conversion-types.js:** Contains the source code for conversion types structures implemented.
+
+- **/ternary-operator.js:** Contains the source code for ternary operator structures implemented.
+
 ## Getting Started
 To explore and run the code in this subproject, follow these steps:
 
