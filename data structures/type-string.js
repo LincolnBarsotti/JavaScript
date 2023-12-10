@@ -16,4 +16,5 @@ console.log(citacao.toLocaleUpperCase());
 console.log(citacao.toLocaleLowerCase());
 console.log(citacao.length);
 console.log(citacao.toString());
-// Template string ou template literal
+
+console.log(`Maiusculo é ${citacao.toLocaleUpperCase()} e a minuscula é ${citacao.toLocaleLowerCase()}`);
