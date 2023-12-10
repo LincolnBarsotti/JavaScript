@@ -14,5 +14,6 @@ console.log(citacao + ' e ' + texto1);
 console.log('\u0024');
 console.log(citacao.toLocaleUpperCase());
 console.log(citacao.toLocaleLowerCase());
-console.log(citacao.length());
+console.log(citacao.length);
+console.log(citacao.toString);
 // Template string ou template literal
