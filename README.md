@@ -14,7 +14,7 @@ The main goals and purposes of this project include:
 
 2. **Node.js Showcase**: Demonstrate expertise in Node.js, showcasing its capabilities for building scalable and performant backend applications.
 
-3. **Database Integration**: Illustrate the integration of databases with JavaScript, including but not limited to MongoDB, MySQL, or other relevant technologies.
+3. **Database Integration**: Illustrate the integration of databases with JavaScript, including but not limited to MySQL, or other relevant technologies.
 
 4. **API Development**: Showcase the creation of RESTful APIs endpoints, emphasizing best practices in API design and implementation.
 
