@@ -18,3 +18,18 @@ console.log(citacao.length);
 console.log(citacao.toString());
 
 console.log(`Maiusculo é ${citacao.toLocaleUpperCase()} e a minuscula é ${citacao.toLocaleLowerCase()}`);
+
+const frase = 'Frase que começa com um palavra-feia e tem outra palavra-feia no final';
+// faz uma verificação global para utilizando do '/palavrsa-feia/g' caso não tenha o 'g', é a primeira
+const fraseAtualizada = frase.replace(/palavra-feia/g, '********') ;
+console.log(fraseAtualizada);
+
+const cpf = '12345679810';
+const rg = '936549878';
+const cpfFormatado = cpf.replace(/(\d{3})?(\d{3})?(\d{3})?(\d{2})/, "$1.$2.$3-$4");
+const rgFormatado =   rg.replace(/(\d{2})?(\d{3})?(\d{3})?(\d{1})/, "$1.$2.$3-$4");
+
+console.log(cpfFormatado); 
+// O retorno seria 256.846.770-37
+
+console.log(rgFormatado);
