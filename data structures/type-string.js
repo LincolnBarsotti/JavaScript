@@ -33,3 +33,5 @@ console.log(cpfFormatado);
 // O retorno seria 256.846.770-37
 
 console.log(rgFormatado);
+
+console.log(rgFormatado.replace(/9/g, 't'));
