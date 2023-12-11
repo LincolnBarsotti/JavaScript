@@ -34,4 +34,4 @@ console.log(cpfFormatado);
 
 console.log(rgFormatado);
 
-console.log(rgFormatado.replace(/9/g, 't'));
+console.log(rgFormatado.replace(/9/g, '5'));
