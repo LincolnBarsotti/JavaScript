@@ -7,5 +7,7 @@ const notas = [10, 6.5, 7.6, 8];
 
 const media = (notas[0] + nota2 + nota3 + nota4)/notas.length;
 
-console.log(media);
+console.log(media + `, notas: ${notas.reverse()}`);
 
+notas.push(4);
+notas.pop();
