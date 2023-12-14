@@ -25,3 +25,6 @@ for(let i = 0; i < num.length; i++){
     }
 }
 
+for(let elementos of first){
+    console.log(elementos);
+}
